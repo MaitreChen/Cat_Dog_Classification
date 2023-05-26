@@ -1,5 +1,5 @@
 *.jpg
-!imgs/*.jpg
+!img/*.jpg
 
 *.h5
 
