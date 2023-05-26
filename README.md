@@ -58,7 +58,10 @@ Testing Accuracy:83.58%
 
 
 
-![r](F:\A-Curriculum\cv\lab\cat_dog_classification\figures\r.png)
+<div align="center">
+  <a href="" target="_blank">
+  <img width="50%" src="https://github.com/MaitreChen/cat_dog_classification/blob/main/figures/r.png"></a>
+</div>
 
 
 
